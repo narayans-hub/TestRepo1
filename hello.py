@@ -1,3 +1,3 @@
 def hello(s):
-    print("hello "+ str(s))
+    print("Hello, "+ str(s) + "!")
     print("Goodbye")
